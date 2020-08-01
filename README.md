@@ -12,19 +12,20 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## App Objective
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Include and obtain information of third party systems that i use every day:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+→ Current temperature
+→ People live on twitch
+→ Tasks
+→ Reminders
+→ Phrases
+→ 30 seconds of knowledge (tech's, languages, etc)
 
-## Deploy on Vercel
+## Possible UI
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![UI](https://i.imgur.com/ukmRLju.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
