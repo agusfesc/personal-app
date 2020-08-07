@@ -17,15 +17,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## App Objective
 
 Include and obtain information of third party systems that i use every day:
-
+```bash
 → Current temperature
 → People live on twitch
 → Tasks
 → Reminders
 → Phrases
 → 30 seconds of knowledge (tech's, languages, etc)
+```
 
 ## Possible UI
 
-![UI](https://i.imgur.com/ukmRLju.png)
+![UI](https://i.imgur.com/GdJFvc5.png)
 
