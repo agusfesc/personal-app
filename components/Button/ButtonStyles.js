@@ -19,6 +19,8 @@ export const Image = styled.img`
 `
 
 export const MainButton = styled.div`
+  cursor:pointer;
+  
 `
 
 export const Square = styled.div`

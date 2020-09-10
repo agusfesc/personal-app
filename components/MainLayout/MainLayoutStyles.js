@@ -6,6 +6,9 @@ export const Main = styled.main`
   margin-right: auto;
   margin-left: auto;
   
+  @media (max-width: 768px){
+    max-width: 80%;
+  }
   
 `;
 

@@ -4,8 +4,9 @@ import Buttons from '../components/Buttons/Buttons'
 
 export default function Home() {
   return (
-    <MainLayout>
+    <MainLayout >
       <Buttons/>
     </MainLayout>
   )
 }
+

@@ -22,7 +22,7 @@ Include and obtain information of third party systems that i use every day:
 → People live on twitch
 → Tasks
 → Reminders
-→ Phrases
+→ Dictionary 
 → 30 seconds of knowledge (tech's, languages, etc)
 ```
 
@@ -30,3 +30,5 @@ Include and obtain information of third party systems that i use every day:
 
 ![UI](https://i.imgur.com/GdJFvc5.png)
 
+## Notice:
+> Sorry if i switch between Spanish and English in the commits. I need familiarize with this and practice my English

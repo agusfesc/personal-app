@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Fecha = styled.h1`
+export const DateText = styled.h1`
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   text-align: center;
@@ -9,7 +9,7 @@ export const Fecha = styled.h1`
     font-size: 1.50em;
   }
 `
-export const Temperatura = styled.h1`
+export const Temperature = styled.h1`
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   text-align: center;

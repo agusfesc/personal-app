@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Header from '../Header/Header'
 import {Main, Body} from './MainLayoutStyles';
 
-const Layout = (props) => {
+const Layout = ({children}) => {
     
     return ( 
         <Body>
@@ -17,9 +17,10 @@ const Layout = (props) => {
                     margin: 0px;
                 }`}</style>
             </Head>
+            <Header />
             <Main>
-                <Header />
-                {props.children}
+                
+                {children}
             </Main>
             
         </Body>
